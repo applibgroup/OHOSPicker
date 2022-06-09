@@ -1,0 +1,14 @@
+{
+  "name": "@ohos/wheelpicker",
+  "description": "a npm package which contains arkUI2.0 page",
+  "ohos": {
+    "org": ""
+  },
+  "version": "1.0.0",
+  "main": "index.ets",
+  "types": "",
+  "repository": {},
+  "author": "Susanto Mahato",
+  "license": "ISC",
+  "dependencies": {}
+}
