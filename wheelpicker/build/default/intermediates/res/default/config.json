@@ -1,0 +1,42 @@
+{
+    "app" : 
+    {
+        "apiVersion" : 
+        {
+            "compatible" : 8,
+            "releaseType" : "Release",
+            "target" : 8
+        },
+        "bundleName" : "com.example.wheelpicker",
+        "vendor" : "example",
+        "version" : 
+        {
+            "code" : 1000000,
+            "name" : "1.0.0"
+        }
+    },
+    "deviceConfig" : 
+    {
+        "default" : 
+        {
+            "debug" : true
+        }
+    },
+    "module" : 
+    {
+        "deviceType" : 
+        [
+            "phone",
+            "tablet"
+        ],
+        "distro" : 
+        {
+            "deliveryWithInstall" : true,
+            "moduleName" : "wheelpicker",
+            "moduleType" : "har",
+            "virtualMachine" : "ark"
+        },
+        "package" : "com.example.wheelpicker",
+        "uiSyntax" : "ets"
+    }
+}
