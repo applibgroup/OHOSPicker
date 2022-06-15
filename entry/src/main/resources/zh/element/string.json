@@ -1,0 +1,100 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "描述"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "描述"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "标签"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "ok",
+      "value": "好的"
+    },
+    {
+      "name": "first_button_click",
+      "value": "单击第一个按钮时的回调"
+    },
+    {
+      "name": "second_button_click",
+      "value": "单击第二个按钮时的回调"
+    },
+    {
+      "name": "blank_area_click",
+      "value": "点击空白区域的回调"
+    },
+    {
+      "name": "wheel_pickers",
+      "value": "选轮器"
+    },
+    {
+      "name": "integer_picker",
+      "value": "整数选择器"
+    },
+    {
+      "name": "float_picker",
+      "value": "浮动选择器"
+    },
+    {
+      "name": "option_text_picker",
+      "value": "选项文本选择器"
+    },
+    {
+      "name": "household_items_picker",
+      "value": "家居用品选择器"
+    },
+    {
+      "name": "gender_picker",
+      "value": "性别选择器"
+    },
+    {
+      "name": "ethnic_picker",
+      "value": "民族选择器"
+    },
+    {
+      "name": "constellation_picker",
+      "value": "星座选择器"
+    },
+    {
+      "name": "phone_code_picker",
+      "value": "电话代码选择器"
+    },
+    {
+      "name": "birthday_picker",
+      "value": "生日选择器"
+    },
+    {
+      "name": "time_selection_24_picker",
+      "value": "时间选择 24 小时"
+    },
+    {
+      "name": "time_selectio_12_picker",
+      "value": "时间选择 12hr"
+    },
+    {
+      "name": "month_day_picker",
+      "value": "月日"
+    },
+    {
+      "name": "year_month_picker",
+      "value": "年月"
+    },
+    {
+      "name": "year_month_day_picker",
+      "value": "年月日"
+    },
+    {
+      "name": "year_month_day_time_picker",
+      "value": "年 月 日 时间"
+    }
+  ]
+}

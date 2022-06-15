@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "ok",
+      "value": "Ok"
+    },
+    {
+      "name": "title",
+      "value": "Title"
+    },
+    {
+      "name": "first_button_click",
+      "value": "Callback when the first button is clicked"
+    },
+    {
+      "name": "second_button_click",
+      "value": "Callback when the second button is clicked"
+    },
+    {
+      "name": "blank_area_click",
+      "value": "Click the callback in the blank area"
+    },
+    {
+      "name": "wheel_pickers",
+      "value": "Wheel Pickers"
+    },
+    {
+      "name": "integer_picker",
+      "value": "Integer Picker"
+    },
+    {
+      "name": "float_picker",
+      "value": "Float Picker"
+    },
+    {
+      "name": "option_text_picker",
+      "value": "Option Text Picker"
+    },
+    {
+      "name": "household_items_picker",
+      "value": "Houshold Items Picker"
+    },
+    {
+      "name": "gender_picker",
+      "value": "Gender Picker"
+    },
+    {
+      "name": "ethnic_picker",
+      "value": "Ethnic Picker"
+    },
+    {
+      "name": "constellation_picker",
+      "value": "Constellation Picker"
+    },
+    {
+      "name": "phone_code_picker",
+      "value": "Phone Code Picker"
+    },
+    {
+      "name": "birthday_picker",
+      "value": "Birthday Picker"
+    },
+    {
+      "name": "time_selection_24_picker",
+      "value": "Time Selection 24hr"
+    },
+    {
+      "name": "time_selectio_12_picker",
+      "value": "Time Selection 12hr"
+    },
+    {
+      "name": "month_day_picker",
+      "value": "Month Day"
+    },
+    {
+      "name": "year_month_picker",
+      "value": "Year Month"
+    },
+    {
+      "name": "year_month_day_picker",
+      "value": "Year Month Day"
+    },
+    {
+      "name": "year_month_day_time_picker",
+      "value": "Year Month Day Time"
+    }
+  ]
+}
